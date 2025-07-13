@@ -1,0 +1,15 @@
+telethon
+python-dotenv
+psycopg2-binary
+pandas
+sqlalchemy
+fastapi
+uvicorn
+dbt-postgres
+opencv-python
+torch
+matplotlib
+pydantic
+requests
+aiofiles
+dagster
